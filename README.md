@@ -6,3 +6,7 @@
 
 ## LLM
 [LLM资料](./LLM.md)
+
+
+## MidJourney
+[MidJourney](./midjourney.md)
