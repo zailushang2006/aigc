@@ -49,8 +49,8 @@
 
 ## 典型应用
 
-|名称| 简介 | github      |官网| 更新      | star |
-|:-----:|:----------|:---------|:----|:--------|:-----|
+|名称| 简介 | github      |官网| 更新      | star  |
+|:-----:|:----------|:---------|:----|:--------|:------|
 |Auto-GPT|An experimental open-source attempt to make GPT-4 fully autonomous.| https://github.com/Significant-Gravitas/Auto-GPT |   无   | 2023-08 | 146k  |
 |AgentGPT| AgentGPT allows you to configure and deploy Autonomous AI agents. | https://github.com/reworkd/AgentGPT              |   无   | 2023-08 | 25.5k |
 |babyagi| an AI-powered task management system.                             | https://github.com/yoheinakajima/babyagi         |   无   | 2023-06 | 16.5k |
@@ -63,6 +63,7 @@
 |pdfGPT|PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. |https://github.com/bhaskatripathi/pdfGPT|   无   | 2023-06 | 5.6k  |
 |JARVIS|JARVIS, a system to connect LLMs with ML community.  |https://github.com/microsoft/JARVIS|   无   | 2023-07 | 21.5k |
 |quivr|Dump all your files and chat with it using your Generative AI |https://github.com/StanGirard/quivr|   无   | 2023-08 | 19.5k |
+|Generative Agents| Interactive Simulacra of Human Behavior |https://github.com/joonspk-research/generative_agents|   无   | 2023-08 | 11.2k |
 
 
 ## 可视化

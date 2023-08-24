@@ -10,3 +10,7 @@
 
 ## MidJourney
 [MidJourney](./midjourney.md)
+
+
+## Stable Diffusion
+[Stable Diffusion](./stable_diffusion.md)
