@@ -1,12 +1,13 @@
 # Stable Diffusion
 
-|              名称              | 简介                                                           |         语言         | github| 官网  | 更新      | star  |
-|:----------------------------:|:-------------------------------------------------------------|:------------------:|:-----|:----|:--------|:------|
-|  Stable Diffusion Version 2  | High-Resolution Image Synthesis with Latent Diffusion Models |       Python       |https://github.com/Stability-AI/stablediffusion||         |       |
-|   Stable Diffusion web UI    | Stable Diffusion web UI                                      | Python, JavaScript |https://github.com/AUTOMATIC1111/stable-diffusion-webui|| 2023-07 | 97.9k |
-|Dreambooth on Stable Diffusion| Implementation of Dreambooth with Stable Diffusion           |  Python, Jupyter   |https://github.com/XavierXiao/Dreambooth-Stable-Diffusion|| 2022-07 | 6.9k  |
-|automatic| SD.Next: Advanced Implementation of Stable Diffusion |  Python, Jupyter   |https://github.com/vladmandic/automatic|| 2022-08 | 3.3k  |
-|InvokeAI| Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more.|  Python, Jupyter   |https://github.com/invoke-ai/InvokeAI|| 2022-08 | 18.3k |
+|              名称              | 简介                                                                                |         语言         | github                                                    | 官网  | 更新      | star  |
+|:----------------------------:|:----------------------------------------------------------------------------------|:------------------:|:----------------------------------------------------------|:----|:--------|:------|
+|  Stable Diffusion Version 2  | High-Resolution Image Synthesis with Latent Diffusion Models                      |       Python       | https://github.com/Stability-AI/stablediffusion           ||         |       |
+|   Stable Diffusion web UI    | Stable Diffusion web UI                                                           | Python, JavaScript | https://github.com/AUTOMATIC1111/stable-diffusion-webui   || 2023-07 | 97.9k |
+|Dreambooth on Stable Diffusion| Implementation of Dreambooth with Stable Diffusion                                |  Python, Jupyter   | https://github.com/XavierXiao/Dreambooth-Stable-Diffusion || 2022-07 | 6.9k  |
+|automatic| SD.Next: Advanced Implementation of Stable Diffusion                              |  Python, Jupyter   | https://github.com/vladmandic/automatic                   || 2022-08 | 3.3k  |
+|InvokeAI| Professional Creative Tools for Stable Diffusion, Custom-Trained Models, and more.|  Python, Jupyter   | https://github.com/invoke-ai/InvokeAI                     || 2022-08 | 18.3k |
+|civitai| A repository of models, textual inversions, and more                              |     TypeScript     | https://github.com/civitai/civitai  |https://civitai.com/| 2022-08 | 4.4k  |
 
 
 
